@@ -1,6 +1,6 @@
 #include <iostream>
 
-void main() {
+int main() {
     int velocity = 1;
     std::string i_am_seeing = "Yes";
     bool watching_video = true;
@@ -8,4 +8,5 @@ void main() {
     char sleepy = 'y';
 
     std::cout << velocity << i_am_seeing << watching_video << what_time_it_is << sleepy << std::endl;
+    return 0;
 }
