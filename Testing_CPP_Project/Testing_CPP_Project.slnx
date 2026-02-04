@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Testing_CPP_Project/Testing_CPP_Project.vcxproj" />
+</Solution>

@@ -1,0 +1,78 @@
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# =========================
+# Build results
+# =========================
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+
+# Subcarpetas comunes de VS
+*/Debug/
+*/Release/
+*/x64/
+*/x86/
+
+# =========================
+# CMake
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+out/
+
+# =========================
+# Archivos intermedios
+# =========================
+*.obj
+*.iobj
+*.ipdb
+*.tlog
+*.pch
+*.idb
+*.ilk
+*.log
+
+# =========================
+# Binarios
+# =========================
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+
+# =========================
+# Archivos generados
+# =========================
+*.res
+*.aps
+*.rc
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# =========================
+# Otros
+# =========================
+*.cache
+*.tmp
+*.bak
+*.old
+
+# =========================
+# Rider / VSCode (por si acaso)
+# =========================
+.idea/
+.vscode/
